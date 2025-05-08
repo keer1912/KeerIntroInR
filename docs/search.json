@@ -96,19 +96,5 @@
     "title": "Find out more about Keerthana",
     "section": "Additional Feedback (Optional)",
     "text": "Additional Feedback (Optional)\nThis exercise was a great hands-on introduction to Quarto. I also like this lesson style where we have time to work on the lab in class. It allows us to engage with the prof directly and ask questions immediately as she walks around the lab class."
-  },
-  {
-    "objectID": "in_class.html",
-    "href": "in_class.html",
-    "title": "team_project_1",
-    "section": "",
-    "text": "a = 2\nprint(a)\n\n[1] 2"
-  },
-  {
-    "objectID": "in_class.html#subsection-1.1",
-    "href": "in_class.html#subsection-1.1",
-    "title": "team_project_1",
-    "section": "Subsection 1.1",
-    "text": "Subsection 1.1\nHello, World\n\n\n\nI am happy today Are you?\nYes I am.\nAwesome!\n\n#| label: chunk-option-example\n#| eval: false\n#| echo: false\n\nx=1\nprint(\"Heelo CSC3107 P2\")\n\n[1] \"Heelo CSC3107 P2\"\n\nprint(x)\n\n[1] 1"
   }
 ]

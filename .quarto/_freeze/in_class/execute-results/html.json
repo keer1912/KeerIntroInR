@@ -2,10 +2,8 @@
   "hash": "59731200f3aa427327279b4b75ccd19f",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"team_project_1\"\nauthor: \"Keerthana\"\nformat: html\n---\n\n::: {.cell}\n\n```{.r .cell-code}\na = 2\nprint(a)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\n# Section 1\n## Subsection 1.1\n\nHello, World\\\n\\\n\\\n\nI am happy today\n*Are you?*\\\n**Yes I am.**\\\n***Awesome!***\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#| label: chunk-option-example\n#| eval: false\n#| echo: false\n\nx=1\nprint(\"Heelo CSC3107 P2\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Heelo CSC3107 P2\"\n```\n\n\n:::\n\n```{.r .cell-code}\nprint(x)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 1\n```\n\n\n:::\n:::\n",
-    "supporting": [
-      "in_class_files"
-    ],
+    "markdown": "---\ntitle: \"team_project_1\"\nauthor: \"Keerthana\"\nformat: html\n---\n\n::: {.cell}\n\n```{.r .cell-code}\na = 2\nprint(a)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n# Section 1\n## Subsection 1.1\n\nHello, World\\\n\\\n\\\n\nI am happy today\n*Are you?*\\\n**Yes I am.**\\\n***Awesome!***\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#| label: chunk-option-example\n#| eval: false\n#| echo: false\n\nx=1\nprint(\"Heelo CSC3107 P2\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Heelo CSC3107 P2\"\n```\n\n\n:::\n\n```{.r .cell-code}\nprint(x)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 1\n```\n\n\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
