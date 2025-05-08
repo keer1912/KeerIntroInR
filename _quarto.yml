@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Keerthana's Portfolio"
+  navbar:
+    left:
+      - href: 2301162_Keerthana_Week1.qmd
+        text: Home
